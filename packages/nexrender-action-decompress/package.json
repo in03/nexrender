@@ -1,7 +1,7 @@
 {
   "name": "@nexrender/action-decompress",
   "homepage": "https://www.nexrender.com",
-  "version": "1.51.7",
+  "version": "1.53.0",
   "main": "index.js",
   "author": "Vladyslav Hrytsenko",
   "license": "MIT",
@@ -9,6 +9,6 @@
     "access": "public"
   },
   "dependencies": {
-    "adm-zip": "^0.5.10"
+    "adm-zip": "0.5.10"
   }
 }
